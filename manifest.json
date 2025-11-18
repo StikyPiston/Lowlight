@@ -3,7 +3,7 @@
 	"name": "Lowlight",
 	"version": "1.0.0",
 	"minAppVersion": "1.5.0",
-	"description": "A simple plugin allowing you to highlight text in different colours using span tags"A simple plugin allowing you to highlight text in different colours using span tags",
+	"description": "A simple plugin allowing you to highlight text in different colours using span tags.",
 	"author": "StikyPiston",
 	"isDesktopOnly": false
 }
